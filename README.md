@@ -4,4 +4,4 @@ This is the first file in repo
 
 ##Some more text
 
-Just checking
+Just checking the commit
